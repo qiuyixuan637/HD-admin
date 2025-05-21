@@ -35,7 +35,7 @@ Gamepasses = {
 	-- REMOVE THESE BEFORE RELEASING YOUR GAME
 	-- These are test gamepasses to show how ranks can be sold and purchased
 	[1039997021] = "VIP";
-	[1039509747] = "Mod";
+	[1039509747] = "Admin";
 };
 
 
@@ -55,15 +55,15 @@ Groups = {
 
 
 -- FRIENDS
-Friends = "NonAdmin";
+Friends = "Owner";
 
 
 -- VIP SERVER OWNER
-VipServerOwner = "NonAdmin";
+VipServerOwner = "Admin";
 
 
 -- FREE ADMIN
-FreeAdmin = "NonAdmin";
+FreeAdmin = "Admin";
 
 
 
